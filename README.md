@@ -28,3 +28,21 @@ Lista de tarefas:
 
 Para criar links:
 [Acesse meu Gihub](https://github.com/FelipeRodriguesPinheiro)
+
+Para tabelas:
+Número | Nome | Nota
+---|---|---
+1 | Felipe | 10
+2 | Alex | 4
+3 | Murilo | 3.9
+
+Terminou a tabela
+
+Para mostrar apenas uma linha de código colocar entre crases:
+`printf("Ola mundo");`
+
+Para um código maior usar 3 crases abrindo e fechando:
+```
+
+```
+
